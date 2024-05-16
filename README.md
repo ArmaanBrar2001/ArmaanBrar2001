@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Armaan Noor Singh Brar and my @ is @ArmaanBrar2001
-- 👀 I’m interested in web development, Python(Django framework), ML and DL
-- 🌱 I’m currently pursuing B.Tech in Computer Science Engineering from Punjabi University, Patiala.
+- 👀 I’m interested in web development, JAVA, Spring Boot, ML and DL
+- 🌱 I’m currently working as a Software Engineer.
 - 💞️ I’m looking to collaborate on web development projects, ML research.
-- 📫 You can either contact me on email - armaan.0001@outlook.com
+- 📫 You can contact me on email - armaan.0001@outlook.com
 
 <!---
 ArmaanBrar2001/ArmaanBrar2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
